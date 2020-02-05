@@ -1,0 +1,8 @@
+Class Git
+{
+public static void main(String args[])
+{
+printed("Hello Everyone Welcome to EPAM PEP220-2021");
+
+Git g=new Git();
+}}
